@@ -1,6 +1,0 @@
-{
-  "name": "Aramaic Lord's Prayer",
-  "description": "Align with the sacred, original frequency of the Lord's Prayer in Aramaic with phonetic guidance, real-time vocal verification, and premium physical keepsake reference cards.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
